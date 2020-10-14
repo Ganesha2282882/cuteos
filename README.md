@@ -9,4 +9,4 @@ cd cuteos
 grub-mkrescue --output=$HOME/CuteOS.iso --product-name=CuteOS --product-version="White Toad"
 ```
 
-And it's really fast. It's written in about 50 lines of code. And it does not even take a second to compile!
+And it's really fast. (At least on a DOS computer. It's slow on a modern machine which is ironic.)
